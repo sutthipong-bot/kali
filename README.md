@@ -1,0 +1,2 @@
+# kali
+Root  kali nethunter
